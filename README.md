@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from Pakistan.</h3>
 
 
-<p align="left"> <img align="right" alt="coding" width="300" src="https://i.edmc.nu/monthly_2024_01/anime_programming.thumb.gif.3d310c6358c760d05edfa6d044c0e091.gif" alt="hibadawood" /> </p>
+<p align="left"> <img align="right" alt="coding" width="350" src="https://i.edmc.nu/monthly_2024_01/anime_programming.thumb.gif.3d310c6358c760d05edfa6d044c0e091.gif" alt="hibadawood" /> </p>
 - 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
 
 - 🌱 I’m currently learning **cloud Applied generative AI**
