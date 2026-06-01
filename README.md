@@ -3,7 +3,9 @@
 A comprehensive repository containing step-by-step programming solutions for the 45 core JavaScript/TypeScript assignment challenges. This project covers everything from basic variable manipulation to advanced programming concepts like OOP, asynchronous logic, arrays, and structural operations.
 
 ---
-
+<p align="center">
+  <img src="./Gemini_Generated_Image_ubu758ubu758ubu7.png" alt="TypeScript Master Achievement" width="600">
+</p>
 ## ✨ Key Concepts Covered
 
 * **Basics & Variables:** String manipulation, whitespace trimming, and basic operators.
@@ -33,3 +35,5 @@ Each exercise challenge is organized into its own separate, specialized script f
 ├── exercise_14_17/   # Guest List Operations (Add/Remove/Pop)
 ├── exercise_18/      # Array Sorting Mechanics (Seeing the World)
 └── exercise_35_45/   # Functional Programming & Object Generation
+
+
